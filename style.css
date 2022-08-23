@@ -3,8 +3,7 @@
   text-transform: uppercase;
   border: 1px solid #dddddd;
   background-color: #b39db8;
-  font-family: Verdana, Georgia, Helvetica;
-  
+  font-family: Verdana, Georgia, Helvetica; 
 }
 
 body {
@@ -13,7 +12,7 @@ body {
   color: #171717;
   font-family: Verdana, Georgia, Helvetica;
   margin: 10% 20%;
-    
+  margin-bottom: 500px
 }
 
 .pro-header {
@@ -26,6 +25,7 @@ body {
 
 .header-image{
   text-align: center;
+  padding: 10px 10px 10px 10px;
 }
 
 .pro-education {
@@ -49,10 +49,14 @@ footer {
   font-family: Verdana, Georgia, Helvetica;
   font size: 8px;
   border: 1px solid #dddddd;
-  background-color: #b39db8
+  background-color: white;
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  color: gray;
+  color: gray; 
+}
+
+h5{
+  color: #120042;
 }
